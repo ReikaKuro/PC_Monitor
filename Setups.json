@@ -1,0 +1,42 @@
+{
+	"setups": {
+		"setup1": {
+			"setup_ip": "192.168.255.179",
+			"login": "Johny",
+			"password": "Doe",
+			"pdu1": "192.168.255.173, 10",
+			"pdu2": "192.168.255.141, 12"
+		},
+		"setup2": {
+			"setup_ip": "192.168.255.180",
+			"login": "Johny",
+			"password": "Doe",
+			"pdu1": "192.168.255.50, 11"
+		},
+		"setup3": {
+			"setup_ip": "192.168.255.158",
+			"login": "Johny",
+			"password": "Doe",
+			"pdu1": "192.168.255.141, 8"
+		},
+		"setup4": {
+			"setup_ip": "192.168.255.216",
+			"login": "Johny",
+			"password": "Doe",
+			"pdu1": "192.168.255.75, 10",
+			"pdu2": "1192.168.255, 12"
+		},
+		"setup5": {
+			"setup_ip": "192.168.255.80",
+			"login": "Johny",
+			"password": "Doe",
+		},
+		"setup6": {
+			"setup_ip": "192.168.255.85",
+			"login": "Johny",
+			"password": "Doe",
+			"pdu1": "192.168.255.50, 10",
+			"pdu2": "192.168.255.50, 12"
+		}
+	}
+}
